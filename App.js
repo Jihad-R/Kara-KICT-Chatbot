@@ -4,7 +4,6 @@ import { GiftedChat } from "react-native-gifted-chat";
 import { Dialogflow_V2 } from "react-native-dialogflow";
 import { dialogflowConfig } from "./env";
 import * as Speech from "expo-speech";
-import voice from "./src/components/Text2Speech";
 
 const BOT_USER = {
   _id: 2,
